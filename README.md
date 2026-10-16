@@ -1,2 +1,3 @@
-   # Fashion ANN Pipeline Project
-   Git + DVC assignment.
+# Fashion ANN Pipeline Project
+Git + DVC assignment.
+Dataset: Fashion-MNIST
